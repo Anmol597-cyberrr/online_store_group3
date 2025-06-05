@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> 6f7830b0c05de77302014d183576bf5bc9a1133d
 <?php
 require 'config/db.php';
 
